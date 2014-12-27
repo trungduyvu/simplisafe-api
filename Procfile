@@ -1,1 +1,1 @@
-web: bin/simplify-api
+web: simplify-api
