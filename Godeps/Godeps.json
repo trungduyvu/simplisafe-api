@@ -1,0 +1,5 @@
+{
+	"ImportPath": "github.com/trungduyvu/simplisafe-api",
+	"GoVersion": "go1.3.2",
+	"Deps": []
+}
